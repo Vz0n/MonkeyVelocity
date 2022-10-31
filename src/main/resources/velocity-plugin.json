@@ -1,0 +1,6 @@
+{
+  "id": "monkeyvelocity",
+  "main": "net.monkeycraftmc.velocity.MonkeyVelocity",
+  "name": "MonkeyCore-Velocity",
+  "version": "1.0"
+}
