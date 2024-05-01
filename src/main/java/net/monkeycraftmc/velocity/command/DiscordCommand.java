@@ -7,7 +7,6 @@ import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.minimessage.MiniMessage;
 import net.monkeycraftmc.velocity.util.Configuration;
 
-//Why I don't use Brigadier? because it's a simple Discord command XD
 public class DiscordCommand implements SimpleCommand {
 
     private final Configuration config;
